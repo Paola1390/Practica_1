@@ -1,10 +1,14 @@
 # Practica_1
-Ejercicios de practica de python
-## Contenido
-- Ejercicio 1: Variables y tipos de datos
-- Ejercicio 2: Condicionales
-- Ejercicio 3: Bucles
-- Ejercicio 4: Funciones
+Ejercicios de práctica en Python sobre criptografía y esteganografía.
 
-## Objetivo
-Aprender y reforzar conceptos básicos de Python.
+## 📂 Contenido del repositorio
+Este proyecto incluye los siguientes scripts:
+
+- **Criptografia_AES.py**  
+  Implementación básica del algoritmo AES para cifrado y descifrado de datos.
+
+- **cifrado_cesar.py**  
+  Ejemplo del clásico cifrado César, útil para comprender sustitución de caracteres.
+
+- **Esteganografia.py**  
+  Script para ocultar y extraer información dentro de imágenes (esteganografía).
